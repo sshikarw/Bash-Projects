@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+# Purpose - Display header message
+# $1 - message
+function write_header()
+{
+local h="$@"
+echo "---------------------------------------------------------------"
+echo " ${h}"
+echo "---------------------------------------------------------------"
+}
+
