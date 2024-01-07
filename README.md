@@ -1,8 +1,10 @@
 # Bash-Projects
+
 This script is designed as a menu-driven interface for various system administration tasks. Each menu option corresponds to a specific function, such as system upgrade, application installation, user management, and more. The script uses colorful text formatting for better visual representation in the terminal. The script also includes functions for handling backups, virtual machine creation, file encryption/decryption, firewall configuration, and task automation with cron.
 
 Ensure that you replace placeholders like ~/Project-202017B2005/lib/filename with the actual path and file name in your system. The script uses various shell functions to perform different tasks based on the user's menu selection.
 
+![Summer Project Thumbnail](https://github.com/sshikarw/Bash-Projects/assets/155809503/fe299a6b-e69d-48ce-9039-e95156d5b136)
 
 Let's go through each function in the provided Bash script and explain its purpose:
 
